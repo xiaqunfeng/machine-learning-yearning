@@ -1,3 +1,6 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* \[Why Machine Learning Strategy\]\(chapter1.md\)
+
+
+
