@@ -36,9 +36,9 @@ NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻�
 
 ### 章节名称
 
-Chapter 1、Why Machine Learning Strategy
+[Chapter 1、Why Machine Learning Strategy](chapter1.md)
 
-Chapter 2、How to use this book to help your team
+[Chapter 2、How to use this book to help your team](chapter2.md)
 
 Chapter 4、Prerequisites and Notation
 
