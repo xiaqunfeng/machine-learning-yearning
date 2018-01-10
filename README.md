@@ -1,3 +1,6 @@
-# My Awesome Book
+# Machine Learning Yearning
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻译记录之，加深学习印象。
+
+官网：[http://www.mlyearning.org/](http://www.mlyearning.org/)
+
