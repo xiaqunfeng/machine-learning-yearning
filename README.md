@@ -2,6 +2,8 @@
 
 NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻译记录之，加深学习印象。
 
+更好阅读体验，移步gitbook：https://xiaqunfeng.gitbooks.io/machine-learning-yearning/content/
+
 官网：[http://www.mlyearning.org/](http://www.mlyearning.org/)
 
 ### 目的
@@ -40,9 +42,9 @@ NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻�
 
 [Chapter 2、How to use this book to help your team](chapter2.md)
 
-Chapter 4、Prerequisites and Notation
+[Chapter 3、Prerequisites and Notation](chapter3.md)
 
-Chapter 5、Scale drives machine learning progress
+[Chapter 4、Scale drives machine learning progress](chapter4.md)
 
 Chapter 6、Your development and test sets
 
