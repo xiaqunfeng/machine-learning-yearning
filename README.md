@@ -46,11 +46,11 @@ NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻�
 
 [Chapter 4、Scale drives machine learning progress](chapter4.md)
 
-Chapter 6、Your development and test sets
+[Chapter 5、Your development and test sets](chapter5.md)
 
-Chapter 7、Your dev and test sets should come from the same distribution
+[Chapter 6、Your dev and test sets should come from the same distribution](chapter6.md)
 
-Chapter 8、How large do the dev/test sets need to be?
+[Chapter 7、How large do the dev/test sets need to be?](chapter7.md)
 
 Chapter 9、Establish a single-number evaluation metric for your team to optimize
 
