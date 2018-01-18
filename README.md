@@ -52,7 +52,7 @@ NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻�
 
 [Chapter 7、How large do the dev/test sets need to be?](chapter7.md)
 
-Chapter 9、Establish a single-number evaluation metric for your team to optimize
+[Chapter 8、Establish a single-number evaluation metric for your team to optimize](chapter8.md)
 
 Chapter 10、Optimizingandsatisficingmetrics
 
