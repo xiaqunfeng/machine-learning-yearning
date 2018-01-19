@@ -54,7 +54,7 @@ NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻�
 
 [Chapter 8、Establish a single-number evaluation metric for your team to optimize](chapter8.md)
 
-Chapter 10、Optimizingandsatisficingmetrics
+[Chapter 9、Optimizingandsatisficingmetrics](chapter9.md)
 
 Chapter 11、Having a dev set and metric speeds up iterations
 
