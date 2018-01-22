@@ -58,7 +58,7 @@ NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻�
 
 [Chapter 10、Having a dev set and metric speeds up iterations](chapter10.md)
 
-Chapter 12、When to change dev/test sets and metrics
+[Chapter 11、When to change dev/test sets and metrics](chapter11.md)
 
 Chapter 13、Takeaways: Setting up development and test sets
 

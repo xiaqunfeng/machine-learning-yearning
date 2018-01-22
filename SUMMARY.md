@@ -11,3 +11,4 @@
 * [Establish a single-number evaluation metric for your team to optimize](chapter8.md)
 * [Optimizing and satisficing metrics](chapter9.md)
 * [Having a dev set and metric speeds up iterations](chapter10.md)
+* [When to change dev/test sets and metrics](chapter11.md)
