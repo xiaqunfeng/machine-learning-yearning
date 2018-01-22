@@ -10,3 +10,4 @@
 * [How large do the dev/test sets need to be?](chapter7.md)
 * [Establish a single-number evaluation metric for your team to optimize](chapter8.md)
 * [Optimizing and satisficing metrics](chapter9.md)
+* [Having a dev set and metric speeds up iterations](chapter10.md)
