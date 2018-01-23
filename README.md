@@ -60,7 +60,7 @@ NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻�
 
 [Chapter 11、When to change dev/test sets and metrics](chapter11.md)
 
-Chapter 13、Takeaways: Setting up development and test sets
+[Chapter 12、Takeaways: Setting up development and test sets](chapter12.md)
 
 Chapter 14、Build your first system quickly, then iterate
 
