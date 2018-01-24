@@ -1,7 +1,6 @@
 # Machine Learning Yearning
 
-NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻译记录之，加深学习印象。
-
+NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻译记录之，加深学习印象。 
 更好阅读体验，移步gitbook：https://xiaqunfeng.gitbooks.io/machine-learning-yearning/content/
 
 官网：[http://www.mlyearning.org/](http://www.mlyearning.org/)
@@ -62,9 +61,7 @@ NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻�
 
 [Chapter 12、Takeaways: Setting up development and test sets](chapter12.md)
 
-Chapter 14、Build your first system quickly, then iterate
-
-Chapter 15、Error analysis: Look at dev set examples to evaluate ideas
+[Chapter 13、Error analysis: Look at dev set examples to evaluate ideas](chapter13.md)
 
 Chapter 16、Evaluate multiple ideas in parallel during error analysis
 

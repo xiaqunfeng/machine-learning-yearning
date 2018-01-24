@@ -13,3 +13,4 @@
 * [Having a dev set and metric speeds up iterations](chapter10.md)
 * [When to change dev/test sets and metrics](chapter11.md)
 * [Takeaways: Setting up development and test sets](chapter12.md)
+* [Error analysis: Look at dev set examples to evaluate ideas](chapter13.md)
