@@ -14,3 +14,4 @@
 * [When to change dev/test sets and metrics](chapter11.md)
 * [Takeaways: Setting up development and test sets](chapter12.md)
 * [Error analysis: Look at dev set examples to evaluate ideas](chapter13.md)
+* [Evaluate multiple ideas in parallel during error analysis](chapter14.md)

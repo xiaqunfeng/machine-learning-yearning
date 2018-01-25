@@ -63,7 +63,7 @@ NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻�
 
 [Chapter 13、Error analysis: Look at dev set examples to evaluate ideas](chapter13.md)
 
-Chapter 16、Evaluate multiple ideas in parallel during error analysis
+[Chapter 14、Evaluate multiple ideas in parallel during error analysis](chapter14.md)
 
 ...
 
