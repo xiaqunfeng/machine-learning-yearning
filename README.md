@@ -1,9 +1,10 @@
 # Machine Learning Yearning
 
-NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻译记录之，加深学习印象。 
-更好阅读体验，移步gitbook：https://xiaqunfeng.gitbooks.io/machine-learning-yearning/content/
-
 官网：[http://www.mlyearning.org/](http://www.mlyearning.org/)
+
+NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻译记录之，加深学习印象。 
+
+更好阅读体验，移步gitbook：https://xiaqunfeng.gitbooks.io/machine-learning-yearning/content/
 
 ### 目的
 
@@ -25,17 +26,7 @@ NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻�
 
 * 按部进行错误分析
 
-### 下载
-
-当前更新了14章，下载如下：
-
-[1-12章](https://gallery.mailchimp.com/dc3a7ef4d750c0abfc19202a3/files/Machine_Learning_Yearning_V0.5_01.pdf)
-
-[13章](https://gallery.mailchimp.com/dc3a7ef4d750c0abfc19202a3/files/Machine_Learning_Yearning_V0.5_02.pdf)
-
-[14章](https://gallery.mailchimp.com/dc3a7ef4d750c0abfc19202a3/files/Machine_Learning_Yearning_V0.5_03.pdf)
-
-### 章节名称
+### 翻译章节
 
 [Chapter 1、Why Machine Learning Strategy](chapter1.md)
 
@@ -66,4 +57,14 @@ NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻�
 [Chapter 14、Evaluate multiple ideas in parallel during error analysis](chapter14.md)
 
 ...
+
+### 英文原文
+
+当前更新了14章，下载链接如下：
+
+[1-12章](https://gallery.mailchimp.com/dc3a7ef4d750c0abfc19202a3/files/Machine_Learning_Yearning_V0.5_01.pdf)
+
+[13章](https://gallery.mailchimp.com/dc3a7ef4d750c0abfc19202a3/files/Machine_Learning_Yearning_V0.5_02.pdf)
+
+[14章](https://gallery.mailchimp.com/dc3a7ef4d750c0abfc19202a3/files/Machine_Learning_Yearning_V0.5_03.pdf)
 
