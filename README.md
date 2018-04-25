@@ -4,6 +4,8 @@
 
 NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻译记录之，加深学习印象。 
 
+update 2018.04.25：NG出15~19章的手稿啦，等的好辛苦，准备翻译中...
+
 更好阅读体验，移步gitbook：https://xiaqunfeng.gitbooks.io/machine-learning-yearning/content/
 
 ### 目的
@@ -56,15 +58,22 @@ NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻�
 
 [Chapter 14、Evaluate multiple ideas in parallel during error analysis](chapter14.md)
 
+Chapter 15、 Evaluating multiple ideas in parallel during error analysis
+
+Chapter 16、Cleaning up mislabeled dev and test set examples
+
+Chapter 17、 If you have a large dev set, split it into two subsets, only one of which you look at
+
+Chapter 18、How big should the Eyeball and Blackbox dev sets be?
+
+Chapter 19、Takeaways: Basic error analysis
+
 ...
 
 ### 英文原文
 
-当前更新了14章，下载链接如下：
+当前更新到了19章，详见 draft 目录：
 
-[1-12章](https://gallery.mailchimp.com/dc3a7ef4d750c0abfc19202a3/files/Machine_Learning_Yearning_V0.5_01.pdf)
+1-14章：[Ng_MLY01-01-14.pdf](draft/Ng_MLY01-01-14.pdf)
 
-[13章](https://gallery.mailchimp.com/dc3a7ef4d750c0abfc19202a3/files/Machine_Learning_Yearning_V0.5_02.pdf)
-
-[14章](https://gallery.mailchimp.com/dc3a7ef4d750c0abfc19202a3/files/Machine_Learning_Yearning_V0.5_03.pdf)
-
+15-19章：[Ng_MLY02-15-19.pdf](draft/Ng_MLY02-15-19.pdf)
