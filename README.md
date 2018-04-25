@@ -2,11 +2,17 @@
 
 官网：[http://www.mlyearning.org/](http://www.mlyearning.org/)
 
+更好阅读体验，移步gitbook：https://xiaqunfeng.gitbooks.io/machine-learning-yearning/content/
+
 NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻译记录之，加深学习印象。 
 
-update 2018.04.25：NG出15~19章的手稿啦，等的好辛苦，准备翻译中...
+**更新记录：**
 
-更好阅读体验，移步gitbook：https://xiaqunfeng.gitbooks.io/machine-learning-yearning/content/
+- update 2018.04.25
+
+NG出15~19章的手稿啦，等的好辛苦，准备翻译中...
+
+Tips：在原先的12章和13章之间新增一个章节 `13 Build your first system quickly, then iterate`，原先的chapter13变为14，chapter14变为15
 
 ### 目的
 
@@ -54,11 +60,11 @@ update 2018.04.25：NG出15~19章的手稿啦，等的好辛苦，准备翻译�
 
 [Chapter 12、Takeaways: Setting up development and test sets](chapter12.md)
 
-[Chapter 13、Error analysis: Look at dev set examples to evaluate ideas](chapter13.md)
+[Chapter13、Build your first system quickly, then iterate](chapter13.md)
 
-[Chapter 14、Evaluate multiple ideas in parallel during error analysis](chapter14.md)
+[Chapter 14、Error analysis: Look at dev set examples to evaluate ideas](chapter14.md)
 
-Chapter 15、 Evaluating multiple ideas in parallel during error analysis
+[Chapter 15、Evaluate multiple ideas in parallel during error analysis](chapter15.md)
 
 Chapter 16、Cleaning up mislabeled dev and test set examples
 
