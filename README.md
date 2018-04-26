@@ -12,7 +12,7 @@ NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻�
 
 NG出15~19章的手稿啦，等的好辛苦，准备翻译中...
 
-Tips：在原先的12章和13章之间新增一个章节 `13 Build your first system quickly, then iterate`，原先的chapter13变为14，chapter14变为15
+> Tips：在原先的12章和13章之间新增一个章节 `13 Build your first system quickly, then iterate`，原先的chapter13变为14，chapter14变为15
 
 ### 目的
 
@@ -60,13 +60,13 @@ Tips：在原先的12章和13章之间新增一个章节 `13 Build your first sy
 
 [Chapter 12、Takeaways: Setting up development and test sets](chapter12.md)
 
-[Chapter13、Build your first system quickly, then iterate](chapter13.md)
+[Chapter 13、Build your first system quickly, then iterate](chapter13.md)
 
 [Chapter 14、Error analysis: Look at dev set examples to evaluate ideas](chapter14.md)
 
 [Chapter 15、Evaluate multiple ideas in parallel during error analysis](chapter15.md)
 
-Chapter 16、Cleaning up mislabeled dev and test set examples
+[Chapter 16、Cleaning up mislabeled dev and test set examples](chapter16.md)
 
 Chapter 17、 If you have a large dev set, split it into two subsets, only one of which you look at
 
