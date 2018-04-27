@@ -68,7 +68,7 @@ NG出15~19章的手稿啦，等的好辛苦，准备翻译中...
 
 [Chapter 16、Cleaning up mislabeled dev and test set examples](chapter16.md)
 
-Chapter 17、 If you have a large dev set, split it into two subsets, only one of which you look at
+[Chapter 17、 If you have a large dev set, split it into two subsets, only one of which you look at](chapter17.md)
 
 Chapter 18、How big should the Eyeball and Blackbox dev sets be?
 

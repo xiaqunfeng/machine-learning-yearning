@@ -17,4 +17,5 @@
 * [14 Error analysis: Look at dev set examples to evaluate ideas](chapter14.md)
 * [15 Evaluate multiple ideas in parallel during error analysis](chapter15.md)
 * [16 Cleaning up mislabeled dev and test set examples](chapter16.md)
+* [17 If you have a large dev set, split it into two subsets, only one of which you look at](chapter17.md)
 
