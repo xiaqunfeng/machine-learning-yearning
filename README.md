@@ -70,7 +70,7 @@ NG出15~19章的手稿啦，等的好辛苦，准备翻译中...
 
 [Chapter 17、 If you have a large dev set, split it into two subsets, only one of which you look at](chapter17.md)
 
-Chapter 18、How big should the Eyeball and Blackbox dev sets be?
+[Chapter 18、How big should the Eyeball and Blackbox dev sets be?](chapter18.md)
 
 Chapter 19、Takeaways: Basic error analysis
 
