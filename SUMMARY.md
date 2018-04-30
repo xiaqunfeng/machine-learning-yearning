@@ -19,5 +19,6 @@
 * [16 Cleaning up mislabeled dev and test set examples](chapter16.md)
 * [17 If you have a large dev set, split it into two subsets, only one of which you look at](chapter17.md)
 * [18 How big should the Eyeball and Blackbox dev sets be?](chapter18.md)
+* [19 Takeaways: Basic error analysis](chapter19.md)
 
 
