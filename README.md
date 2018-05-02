@@ -84,7 +84,7 @@ NG出15~19章的手稿啦，等的好辛苦，准备翻译中...
 
 #### Bias and Variance
 
-Chapter 20、Bias and Variance: The two big sources of error
+[Chapter 20、Bias and Variance: The two big sources of error](chapter20.md)
 
 Chapter 21、Examples of Bias and Variance
 
@@ -94,7 +94,7 @@ Chapter 22、Comparing to the optimal error rate
 
 ### 英文原文
 
-当前更新到了19章，详见 draft 目录：
+当前更新到了22章，详见 draft 目录：
 
 1-14章：[Ng_MLY01-01-14.pdf](draft/Ng_MLY01-01-14.pdf)
 
