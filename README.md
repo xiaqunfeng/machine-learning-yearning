@@ -14,6 +14,10 @@ NG出15~19章的手稿啦，等的好辛苦，准备翻译中...
 
 > Tips：在原先的12章和13章之间新增一个章节 `13 Build your first system quickly, then iterate`，原先的chapter13变为14，chapter14变为15
 
+- update 2018.05.02
+
+手稿 20~22 章节已出
+
 ### 目的
 
 这本书的目的是教你如何做组织一个机器学习项目所需的大量的决定。 你将学习：
@@ -44,6 +48,8 @@ NG出15~19章的手稿啦，等的好辛苦，准备翻译中...
 
 [Chapter 4、Scale drives machine learning progress](chapter4.md)
 
+#### Setting up development and test sets
+
 [Chapter 5、Your development and test sets](chapter5.md)
 
 [Chapter 6、Your dev and test sets should come from the same distribution](chapter6.md)
@@ -60,6 +66,8 @@ NG出15~19章的手稿啦，等的好辛苦，准备翻译中...
 
 [Chapter 12、Takeaways: Setting up development and test sets](chapter12.md)
 
+#### Basic Error Analysis
+
 [Chapter 13、Build your first system quickly, then iterate](chapter13.md)
 
 [Chapter 14、Error analysis: Look at dev set examples to evaluate ideas](chapter14.md)
@@ -74,6 +82,14 @@ NG出15~19章的手稿啦，等的好辛苦，准备翻译中...
 
 [Chapter 19、Takeaways: Basic error analysis](chapter19.md)
 
+#### Bias and Variance
+
+Chapter 20、Bias and Variance: The two big sources of error
+
+Chapter 21、Examples of Bias and Variance
+
+Chapter 22、Comparing to the optimal error rate
+
 ...
 
 ### 英文原文
@@ -83,3 +99,5 @@ NG出15~19章的手稿啦，等的好辛苦，准备翻译中...
 1-14章：[Ng_MLY01-01-14.pdf](draft/Ng_MLY01-01-14.pdf)
 
 15-19章：[Ng_MLY02-15-19.pdf](draft/Ng_MLY02-15-19.pdf)
+
+20-22章：[Ng_MLY03-20-22.pdf](draft/Ng_MLY03-20-22.pdf)
