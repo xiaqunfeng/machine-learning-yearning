@@ -8,15 +8,11 @@ NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻�
 
 **更新记录：**
 
-- update 2018.04.25
-
-NG出15~19章的手稿啦，等的好辛苦，准备翻译中...
+- update 2018.04.25：NG出15~19章的手稿啦，等的好辛苦，准备翻译中...
 
 > Tips：在原先的12章和13章之间新增一个章节 `13 Build your first system quickly, then iterate`，原先的chapter13变为14，chapter14变为15
 
-- update 2018.05.02
-
-手稿 20~22 章节已出
+- update 2018.05.02：手稿 20~22 章已出
 
 ### 目的
 
@@ -86,7 +82,7 @@ NG出15~19章的手稿啦，等的好辛苦，准备翻译中...
 
 [Chapter 20、Bias and Variance: The two big sources of error](chapter20.md)
 
-Chapter 21、Examples of Bias and Variance
+[Chapter 21、Examples of Bias and Variance](chapter21.md)
 
 Chapter 22、Comparing to the optimal error rate
 
@@ -96,7 +92,7 @@ Chapter 22、Comparing to the optimal error rate
 
 当前更新到了22章，详见 draft 目录：
 
-1-14章：[Ng_MLY01-01-14.pdf](draft/Ng_MLY01-01-14.pdf)
+01-14章：[Ng_MLY01-01-14.pdf](draft/Ng_MLY01-01-14.pdf)
 
 15-19章：[Ng_MLY02-15-19.pdf](draft/Ng_MLY02-15-19.pdf)
 
