@@ -22,5 +22,6 @@
 * [19 Takeaways: Basic error analysis](chapter19.md)
 * [20 Bias and Variance: The two big sources of error](chapter20.md)
 * [21 Examples of Bias and Variance](chapter21.md)
+* [22 Comparing to the optimal error rate](chapter22.md)
 
 

@@ -84,7 +84,7 @@ NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻�
 
 [Chapter 21、Examples of Bias and Variance](chapter21.md)
 
-Chapter 22、Comparing to the optimal error rate
+[Chapter 22、Comparing to the optimal error rate](chapter22.md)
 
 ...
 
