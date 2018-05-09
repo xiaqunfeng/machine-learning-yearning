@@ -13,6 +13,7 @@ NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻�
 > Tips：在原先的12章和13章之间新增一个章节 `13 Build your first system quickly, then iterate`，原先的chapter13变为14，chapter14变为15
 
 - update 2018.05.02：手稿 20~22 章已出
+- Update 2018.05.09：手稿 23~27 章已出
 
 ### 目的
 
@@ -32,7 +33,7 @@ NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻�
 
 * 什么时候应该和不应该使用端到端的深度学习
 
-* 按部进行错误分析
+* 按步进行错误分析
 
 ### 翻译章节
 
@@ -86,14 +87,26 @@ NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻�
 
 [Chapter 22、Comparing to the optimal error rate](chapter22.md)
 
+Chapter 23、Addressing Bias and Variance
+
+Chapter 24、Bias vs. Variance tradeoff
+
+Chapter 25、Techniques for reducing avoidable bias
+
+Chapter 26、Error analysis on the training set
+
+Chapter 27、Techniques for reducing variance
+
 ...
 
 ### 英文原文
 
-当前更新到了22章，详见 draft 目录：
+当前更新到了27章，详见 draft 目录：
 
 01-14章：[Ng_MLY01-01-14.pdf](draft/Ng_MLY01-01-14.pdf)
 
 15-19章：[Ng_MLY02-15-19.pdf](draft/Ng_MLY02-15-19.pdf)
 
 20-22章：[Ng_MLY03-20-22.pdf](draft/Ng_MLY03-20-22.pdf)
+
+23-27章：[Ng_MLY04-23-27.pdf](draft/Ng_MLY04-23-27.pdf)
