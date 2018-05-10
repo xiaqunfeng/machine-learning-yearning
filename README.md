@@ -89,7 +89,7 @@ NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻�
 
 [Chapter 23、Addressing Bias and Variance](chapter23.md)
 
-Chapter 24、Bias vs. Variance tradeoff
+[Chapter 24、Bias vs. Variance tradeoff](chapter24.md)
 
 Chapter 25、Techniques for reducing avoidable bias
 
