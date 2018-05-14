@@ -25,5 +25,6 @@
 * [22 Comparing to the optimal error rate](chapter22.md)
 * [23 Addressing Bias and Variance](chapter23.md)
 * [24 Bias vs. Variance tradeoff](chapter24.md)
+* [25 Techniques for reducing avoidable bias](chapter25.md)
 
 
