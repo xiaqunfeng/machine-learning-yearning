@@ -93,7 +93,7 @@ NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻�
 
 [Chapter 25、Techniques for reducing avoidable bias](chapter25.md)
 
-Chapter 26、Error analysis on the training set
+[Chapter 26、Error analysis on the training set](chapter26.md)
 
 Chapter 27、Techniques for reducing variance
 

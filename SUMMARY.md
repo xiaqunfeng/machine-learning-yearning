@@ -26,5 +26,6 @@
 * [23 Addressing Bias and Variance](chapter23.md)
 * [24 Bias vs. Variance tradeoff](chapter24.md)
 * [25 Techniques for reducing avoidable bias](chapter25.md)
+* [26 Error analysis on the training set](chapter26.md)
 
 
