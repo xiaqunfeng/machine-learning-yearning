@@ -13,7 +13,8 @@ NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻�
 > Tips：在原先的12章和13章之间新增一个章节 `13 Build your first system quickly, then iterate`，原先的chapter13变为14，chapter14变为15
 
 - update 2018.05.02：手稿 20~22 章已出
-- Update 2018.05.09：手稿 23~27 章已出
+- update 2018.05.09：手稿 23~27 章已出
+- update 2018.05.16：手稿 28~30 章已出
 
 ### 目的
 
@@ -97,11 +98,19 @@ NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻�
 
 [Chapter 27、Techniques for reducing variance](chapter27.md)
 
+#### Learning curves
+
+Chapter 28、Diagnosing bias and variance: Learning curves
+
+Chapter 29、Plotting training error
+
+Chapter 30、Interpreting learning curves: High bias
+
 ...
 
 ### 英文原文
 
-当前更新到了27章，详见 draft 目录：
+当前更新到了30章，详见 draft 目录：
 
 01-14章：[Ng_MLY01-01-14.pdf](draft/Ng_MLY01-01-14.pdf)
 
@@ -110,3 +119,5 @@ NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻�
 20-22章：[Ng_MLY03-20-22.pdf](draft/Ng_MLY03-20-22.pdf)
 
 23-27章：[Ng_MLY04-23-27.pdf](draft/Ng_MLY04-23-27.pdf)
+
+28-30章：[Ng_MLY05-28-30.pdf](draft/Ng_MLY05-28-30.pdf)
