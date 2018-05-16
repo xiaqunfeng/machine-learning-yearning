@@ -95,7 +95,7 @@ NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻�
 
 [Chapter 26、Error analysis on the training set](chapter26.md)
 
-Chapter 27、Techniques for reducing variance
+[Chapter 27、Techniques for reducing variance](chapter27.md)
 
 ...
 
