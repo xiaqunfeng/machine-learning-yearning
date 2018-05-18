@@ -100,7 +100,7 @@ NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻�
 
 #### Learning curves
 
-Chapter 28、Diagnosing bias and variance: Learning curves
+[Chapter 28、Diagnosing bias and variance: Learning curves](chapter28.md)
 
 Chapter 29、Plotting training error
 
