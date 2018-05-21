@@ -29,5 +29,6 @@
 * [26 Error analysis on the training set](chapter26.md)
 * [27 Techniques for reducing variance](chapter27.md)
 * [28 Diagnosing bias and variance: Learning curves](chapter28.md)
+* [29 Plotting training error](chapter29.md)
 
 
