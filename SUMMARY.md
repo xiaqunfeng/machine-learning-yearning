@@ -30,5 +30,6 @@
 * [27 Techniques for reducing variance](chapter27.md)
 * [28 Diagnosing bias and variance: Learning curves](chapter28.md)
 * [29 Plotting training error](chapter29.md)
+* [30 Interpreting learning curves: High bias](chapter30.md)
 
 
