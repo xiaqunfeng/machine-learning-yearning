@@ -31,5 +31,6 @@
 * [28 Diagnosing bias and variance: Learning curves](chapter28.md)
 * [29 Plotting training error](chapter29.md)
 * [30 Interpreting learning curves: High bias](chapter30.md)
+* [31 Interpreting learning curves: Other cases](chapter31.md)
 
 
