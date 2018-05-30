@@ -32,5 +32,6 @@
 * [29 Plotting training error](chapter29.md)
 * [30 Interpreting learning curves: High bias](chapter30.md)
 * [31 Interpreting learning curves: Other cases](chapter31.md)
+* [32 Plotting learning curves](chapter32.md)
 
 

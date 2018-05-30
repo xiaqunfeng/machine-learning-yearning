@@ -109,7 +109,7 @@ NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻�
 
 [Chapter 31、Interpreting learning curves: Other cases](chapter31.md)
 
-Chapter 32、Plotting learning curves
+[Chapter 32、Plotting learning curves](chapter32.md)
 
 ...
 
