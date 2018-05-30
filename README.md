@@ -16,6 +16,7 @@ NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻�
 - update 2018.05.09：手稿 23~27 章已出
 - update 2018.05.16：手稿 28~30 章已出
 - update 2018.05.23：手稿 31~32 章已出
+- update 2018.05.30：手稿 33~35 章已出
 
 ### 目的
 
@@ -111,11 +112,19 @@ NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻�
 
 [Chapter 32、Plotting learning curves](chapter32.md)
 
+#### Comparing to human-level performance
+
+Chapter 33、Why we compare to human-level performance
+
+Chapter 34、How to define human-level performance
+
+Chapter 35、Surpassing human-level performance
+
 ...
 
 ### 英文原文
 
-当前更新到了32章，详见 draft 目录：
+当前更新到了35章，详见 draft 目录：
 
 01-14章：[Ng_MLY01-01-14.pdf](draft/Ng_MLY01-01-14.pdf)
 
@@ -128,3 +137,5 @@ NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻�
 28-30章：[Ng_MLY05-28-30.pdf](draft/Ng_MLY05-28-30.pdf)
 
 31-32章：[Ng_MLY06-31-32.pdf](draft/Ng_MLY06-31-32.pdf)
+
+33-35章：[Ng_MLY07-33-35.pdf](draft/Ng_MLY07-33-35.pdf)
