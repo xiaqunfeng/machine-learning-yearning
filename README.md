@@ -114,7 +114,7 @@ NG的手稿，并没有出全，当前只出到14章。我这里边学习边翻�
 
 #### Comparing to human-level performance
 
-Chapter 33、Why we compare to human-level performance
+[Chapter 33、Why we compare to human-level performance](chapter33.md)
 
 Chapter 34、How to define human-level performance
 
