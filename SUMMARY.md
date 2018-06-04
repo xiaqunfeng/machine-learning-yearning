@@ -35,5 +35,6 @@
 * [32 Plotting learning curves](chapter32.md)
 * [33 Why we compare to human-level performance](chapter33.md)
 * [34 How to define human-level performance](chapter34.md)
+* [35 Surpassing human-level performance](chapter35.md)
 
 

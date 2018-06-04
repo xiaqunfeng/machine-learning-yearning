@@ -16,7 +16,7 @@ NG的手稿，并没有出全。我这里边学习边翻译，随手记录之，
 - update 2018.05.09：手稿 23~27 章已出（DONE）
 - update 2018.05.16：手稿 28~30 章已出（DONE）
 - update 2018.05.23：手稿 31~32 章已出（DONE）
-- update 2018.05.30：手稿 33~35 章已出（DOING）
+- update 2018.05.30：手稿 33~35 章已出（DONE）
 
 ### 目的
 
@@ -118,7 +118,7 @@ NG的手稿，并没有出全。我这里边学习边翻译，随手记录之，
 
 [Chapter 34、How to define human-level performance](chapter34.md)
 
-Chapter 35、Surpassing human-level performance
+[Chapter 35、Surpassing human-level performance](chapter35.md)
 
 ...
 
