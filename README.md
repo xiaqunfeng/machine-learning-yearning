@@ -1,5 +1,19 @@
 # Machine Learning Yearning
 
+**目  录**
+
+* [简介](#简介)
+* [目的](#目的)
+* [翻译章节](#翻译章节)
+    * [Setting up development and test sets](#setting-up-development-and-test-sets)
+    * [Basic Error Analysis](#basic-error-analysis)
+    * [Bias and Variance](#bias-and-variance)
+    * [Learning curves](#learning-curves)
+    * [Comparing to human-level performance](#comparing-to-human-level-performance)
+* [英文原文](#英文原文)
+
+##简介
+
 NG的手稿，并没有出全。我这里边学习边翻译，随手记录之，加深学习印象。 
 
 官网：[http://www.mlyearning.org/](http://www.mlyearning.org/)
@@ -18,7 +32,7 @@ NG的手稿，并没有出全。我这里边学习边翻译，随手记录之，
 - update 2018.05.23：手稿 31~32 章已出（DONE）
 - update 2018.05.30：手稿 33~35 章已出（DONE）
 
-### 目的
+##目的
 
 这本书的目的是教你如何做组织一个机器学习项目所需的大量的决定。 你将学习：
 
@@ -38,7 +52,7 @@ NG的手稿，并没有出全。我这里边学习边翻译，随手记录之，
 
 * 按步进行错误分析
 
-### 翻译章节
+##翻译章节
 
 [Chapter 1、Why Machine Learning Strategy](chapter1.md)
 
@@ -48,7 +62,7 @@ NG的手稿，并没有出全。我这里边学习边翻译，随手记录之，
 
 [Chapter 4、Scale drives machine learning progress](chapter4.md)
 
-#### Setting up development and test sets
+###Setting up development and test sets
 
 [Chapter 5、Your development and test sets](chapter5.md)
 
@@ -66,7 +80,7 @@ NG的手稿，并没有出全。我这里边学习边翻译，随手记录之，
 
 [Chapter 12、Takeaways: Setting up development and test sets](chapter12.md)
 
-#### Basic Error Analysis
+###Basic Error Analysis
 
 [Chapter 13、Build your first system quickly, then iterate](chapter13.md)
 
@@ -82,7 +96,7 @@ NG的手稿，并没有出全。我这里边学习边翻译，随手记录之，
 
 [Chapter 19、Takeaways: Basic error analysis](chapter19.md)
 
-#### Bias and Variance
+###Bias and Variance
 
 [Chapter 20、Bias and Variance: The two big sources of error](chapter20.md)
 
@@ -100,7 +114,7 @@ NG的手稿，并没有出全。我这里边学习边翻译，随手记录之，
 
 [Chapter 27、Techniques for reducing variance](chapter27.md)
 
-#### Learning curves
+###Learning curves
 
 [Chapter 28、Diagnosing bias and variance: Learning curves](chapter28.md)
 
@@ -112,7 +126,7 @@ NG的手稿，并没有出全。我这里边学习边翻译，随手记录之，
 
 [Chapter 32、Plotting learning curves](chapter32.md)
 
-#### Comparing to human-level performance
+###Comparing to human-level performance
 
 [Chapter 33、Why we compare to human-level performance](chapter33.md)
 
@@ -122,7 +136,7 @@ NG的手稿，并没有出全。我这里边学习边翻译，随手记录之，
 
 ...
 
-### 英文原文
+##英文原文
 
 当前更新到了35章，详见 draft 目录：
 
