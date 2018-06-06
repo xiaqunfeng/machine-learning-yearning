@@ -10,6 +10,7 @@
     * [Bias and Variance](#bias-and-variance)
     * [Learning curves](#learning-curves)
     * [Comparing to human-level performance](#comparing-to-human-level-performance)
+    * [Training and testing on different distributions](#training-and-testing-on-different-distributions)
 * [英文原文](#英文原文)
 
 ## 简介
@@ -31,6 +32,7 @@ NG的手稿，并没有出全。我这里边学习边翻译，随手记录之，
 - update 2018.05.16：手稿 28~30 章已出（DONE）
 - update 2018.05.23：手稿 31~32 章已出（DONE）
 - update 2018.05.30：手稿 33~35 章已出（DONE）
+- update 2018.06.06：手稿 36~39 章已出（DOING）
 
 ## 目的
 
@@ -134,11 +136,21 @@ NG的手稿，并没有出全。我这里边学习边翻译，随手记录之，
 
 [Chapter 35、Surpassing human-level performance](chapter35.md)
 
+### Training and testing on different distributions
+
+Chapter 36、When you should train and test on different distributions
+
+Chapter 37、How to decide whether to use all your data
+
+Chapter 38、How to decide whether to include inconsistent data
+
+Chapter 39、Weighting data
+
 ...
 
 ## 英文原文
 
-当前更新到了35章，详见 draft 目录：
+当前更新到了39章，详见 draft 目录：
 
 01-14章：[Ng_MLY01-01-14.pdf](draft/Ng_MLY01-01-14.pdf)
 
@@ -153,3 +165,5 @@ NG的手稿，并没有出全。我这里边学习边翻译，随手记录之，
 31-32章：[Ng_MLY06-31-32.pdf](draft/Ng_MLY06-31-32.pdf)
 
 33-35章：[Ng_MLY07-33-35.pdf](draft/Ng_MLY07-33-35.pdf)
+
+36-39章：[Ng_MLY08-36-39.pdf](draft/Ng_MLY08-36-39.pdf)
