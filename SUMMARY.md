@@ -36,5 +36,6 @@
 * [33 Why we compare to human-level performance](chapter33.md)
 * [34 How to define human-level performance](chapter34.md)
 * [35 Surpassing human-level performance](chapter35.md)
+* [36 When you should train and test on different distributions](chapter36.md)
 
 

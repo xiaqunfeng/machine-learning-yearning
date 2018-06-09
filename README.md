@@ -138,7 +138,7 @@ NG的手稿，并没有出全。我这里边学习边翻译，随手记录之，
 
 ### Training and testing on different distributions
 
-Chapter 36、When you should train and test on different distributions
+[Chapter 36、When you should train and test on different distributions](chapter36.md)
 
 Chapter 37、How to decide whether to use all your data
 
