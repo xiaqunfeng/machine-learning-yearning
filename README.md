@@ -142,7 +142,7 @@ NG的手稿，并没有出全。我这里边学习边翻译，随手记录之，
 
 [Chapter 37、How to decide whether to use all your data](chapter37.md)
 
-Chapter 38、How to decide whether to include inconsistent data
+[Chapter 38、How to decide whether to include inconsistent data](chapter38.md)
 
 Chapter 39、Weighting data
 

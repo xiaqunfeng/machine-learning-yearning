@@ -38,5 +38,6 @@
 * [35 Surpassing human-level performance](chapter35.md)
 * [36 When you should train and test on different distributions](chapter36.md)
 * [37 How to decide whether to use all your data](chapter37.md)
+* [38 How to decide whether to include inconsistent data](chapter38.md)
 
 
