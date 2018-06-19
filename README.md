@@ -149,7 +149,7 @@ NG的手稿，并没有出全。我这里边学习边翻译，随手记录之，
 
 [Chapter 40、Generalizing from the training set to the dev set](chapter40.md)
 
-Chapter 41、Identifying Bias, Variance, and Data Mismatch Errors
+[Chapter 41、Identifying Bias, Variance, and Data Mismatch Errors](chapter41.md)
 
 Chapter 42、Addressing data mismatch
 
