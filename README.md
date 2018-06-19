@@ -147,7 +147,7 @@ NG的手稿，并没有出全。我这里边学习边翻译，随手记录之，
 
 [Chapter 39、Weighting data](chapter39.md)
 
-Chapter 40、Generalizing from the training set to the dev set
+[Chapter 40、Generalizing from the training set to the dev set](chapter40.md)
 
 Chapter 41、Identifying Bias, Variance, and Data Mismatch Errors
 

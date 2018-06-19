@@ -40,5 +40,6 @@
 * [37 How to decide whether to use all your data](chapter37.md)
 * [38 How to decide whether to include inconsistent data](chapter38.md)
 * [39 Weighting data](chapter39.md)
+* [40 Generalizing from the training set to the dev set](chapter40.md)
 
 
