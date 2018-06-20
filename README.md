@@ -11,6 +11,7 @@
     * [Learning curves](#learning-curves)
     * [Comparing to human-level performance](#comparing-to-human-level-performance)
     * [Training and testing on different distributions](#training-and-testing-on-different-distributions)
+    * [Debugging inference algorithms](#debugging-inference-algorithms)
 * [英文原文](#英文原文)
 
 ## 简介
@@ -34,6 +35,7 @@ NG的手稿，并没有出全。我这里边学习边翻译，随手记录之，
 - update 2018.05.30：手稿 33~35 章已出（DONE）
 - update 2018.06.06：手稿 36~39 章已出（DONE）
 - update 2018.06.13：手稿 40~43 章已出（DOING）
+- update 2018.06.20：手稿 44~46 章已出（DOING）
 
 ## 目的
 
@@ -155,11 +157,19 @@ Chapter 42、Addressing data mismatch
 
 Chapter 43、Artificial data synthesis
 
+### Debugging inference algorithms
+
+Chapter 44、The Optimization Verification test
+
+Chapter 45、General form of Optimization Verification test
+
+Chapter 46、Reinforcement learning example
+
 ...
 
 ## 英文原文
 
-当前更新到了43章，详见 draft 目录：
+当前更新到了46章，详见 draft 目录：
 
 01-14章：[Ng_MLY01-01-14.pdf](draft/Ng_MLY01-01-14.pdf)
 
@@ -178,3 +188,5 @@ Chapter 43、Artificial data synthesis
 36-39章：[Ng_MLY08-36-39.pdf](draft/Ng_MLY08-36-39.pdf)
 
 40-43章：[Ng_MLY09-40-43.pdf](draft/Ng_MLY09-40-43.pdf)
+
+44-46章：[NG_MLY10-44-46.pdf](draft/NG_MLY10-44-46.pdf)
