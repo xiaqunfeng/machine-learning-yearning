@@ -153,7 +153,7 @@ NG的手稿，并没有出全。我这里边学习边翻译，随手记录之，
 
 [Chapter 41、Identifying Bias, Variance, and Data Mismatch Errors](chapter41.md)
 
-Chapter 42、Addressing data mismatch
+[Chapter 42、Addressing data mismatch](chapter42.md)
 
 Chapter 43、Artificial data synthesis
 

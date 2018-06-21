@@ -42,5 +42,6 @@
 * [39 Weighting data](chapter39.md)
 * [40 Generalizing from the training set to the dev set](chapter40.md)
 * [41 Identifying Bias, Variance, and Data Mismatch Errors](chapter41.md)
+* [42 Addressing data mismatch](chapter42.md)
 
 
