@@ -34,7 +34,7 @@ NG的手稿，并没有出全。我这里边学习边翻译，随手记录之，
 - update 2018.05.23：手稿 31~32 章已出（DONE）
 - update 2018.05.30：手稿 33~35 章已出（DONE）
 - update 2018.06.06：手稿 36~39 章已出（DONE）
-- update 2018.06.13：手稿 40~43 章已出（DOING）
+- update 2018.06.13：手稿 40~43 章已出（DONE）
 - update 2018.06.20：手稿 44~46 章已出（DOING）
 
 ## 目的
@@ -155,7 +155,7 @@ NG的手稿，并没有出全。我这里边学习边翻译，随手记录之，
 
 [Chapter 42、Addressing data mismatch](chapter42.md)
 
-Chapter 43、Artificial data synthesis
+[Chapter 43、Artificial data synthesis](chapter43.md)
 
 ### Debugging inference algorithms
 
