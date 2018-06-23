@@ -159,7 +159,7 @@ NG的手稿，并没有出全。我这里边学习边翻译，随手记录之，
 
 ### Debugging inference algorithms
 
-Chapter 44、The Optimization Verification test
+[Chapter 44、The Optimization Verification test](chapter44.md)
 
 Chapter 45、General form of Optimization Verification test
 

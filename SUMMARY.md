@@ -44,5 +44,6 @@
 * [41 Identifying Bias, Variance, and Data Mismatch Errors](chapter41.md)
 * [42 Addressing data mismatch](chapter42.md)
 * [43 Artificial data synthesis](chapter43.md)
+* [44 The Optimization Verification test](chapter44.md)
 
 
