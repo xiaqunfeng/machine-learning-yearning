@@ -163,7 +163,7 @@ NG的手稿，还没有出全。我这里边学习边翻译，随手记录之，
 
 [Chapter 44、The Optimization Verification test](chapter44.md)
 
-Chapter 45、General form of Optimization Verification test
+[Chapter 45、General form of Optimization Verification test](chapter45.md)
 
 Chapter 46、Reinforcement learning example
 
