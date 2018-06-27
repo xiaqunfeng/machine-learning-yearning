@@ -12,6 +12,7 @@
     * [Comparing to human-level performance](#comparing-to-human-level-performance)
     * [Training and testing on different distributions](#training-and-testing-on-different-distributions)
     * [Debugging inference algorithms](#debugging-inference-algorithms)
+    * [End-to-end deep learning](#end-to-end-deep-learning)
 * [英文原文](#英文原文)
 
 ## 简介
@@ -35,7 +36,8 @@ NG的手稿，还没有出全。我这里边学习边翻译，随手记录之，
 - update 2018.05.30：手稿 33~35 章已出（DONE）
 - update 2018.06.06：手稿 36~39 章已出（DONE）
 - update 2018.06.13：手稿 40~43 章已出（DONE）
-- update 2018.06.20：手稿 44~46 章已出（DOING）
+- update 2018.06.20：手稿 44~46 章已出（DONE）
+- update 2018.06.27：手稿 47~49 章已出（DOING）
 
 > 业余时间翻译，水平有限，如有不妥或错误之处，欢迎不吝赐教。
 
@@ -167,11 +169,19 @@ NG的手稿，还没有出全。我这里边学习边翻译，随手记录之，
 
 [Chapter 46、Reinforcement learning example](chapter46.md)
 
+### End-to-end deep learning
+
+Chapter 47、The rise of end-to-end learning
+
+Chapter 48、More end-to-end learning examples
+
+Chapter 49、Pros and cons of end-to-end learning
+
 ...
 
 ## 英文原文
 
-当前更新到了46章，详见 draft 目录：
+当前更新到了49章，详见 draft 目录：
 
 01-14章：[Ng_MLY01-01-14.pdf](draft/Ng_MLY01-01-14.pdf)
 
@@ -192,3 +202,5 @@ NG的手稿，还没有出全。我这里边学习边翻译，随手记录之，
 40-43章：[Ng_MLY09-40-43.pdf](draft/Ng_MLY09-40-43.pdf)
 
 44-46章：[NG_MLY10-44-46.pdf](draft/NG_MLY10-44-46.pdf)
+
+47-49章：[NG_MLY11-47-49.pdf](draft/NG_MLY11-47-49.pdf)
