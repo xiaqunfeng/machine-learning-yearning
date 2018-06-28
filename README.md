@@ -171,7 +171,7 @@ NG的手稿，还没有出全。我这里边学习边翻译，随手记录之，
 
 ### End-to-end deep learning
 
-Chapter 47、The rise of end-to-end learning
+[Chapter 47、The rise of end-to-end learning](chapter47.md)
 
 Chapter 48、More end-to-end learning examples
 

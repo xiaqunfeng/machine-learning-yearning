@@ -47,5 +47,6 @@
 * [44 The Optimization Verification test](chapter44.md)
 * [45 General form of Optimization Verification test](chapter45.md)
 * [46 Reinforcement learning example](chapter46.md)
+* [47 The rise of end-to-end learning](chapter47.md)
 
 
