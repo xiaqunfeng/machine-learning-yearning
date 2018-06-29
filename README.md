@@ -173,7 +173,7 @@ NG的手稿，还没有出全。我这里边学习边翻译，随手记录之，
 
 [Chapter 47、The rise of end-to-end learning](chapter47.md)
 
-Chapter 48、More end-to-end learning examples
+[Chapter 48、More end-to-end learning examples](chapter48.md)
 
 Chapter 49、Pros and cons of end-to-end learning
 
