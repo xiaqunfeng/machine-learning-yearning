@@ -50,5 +50,6 @@
 * [47 The rise of end-to-end learning](chapter47.md)
 * [48 More end-to-end learning examples](chapter48.md)
 * [49 Pros and cons of end-to-end learning](chapter49.md)
+* [50 Choosing pipeline components: Data availability](chapter50.md)
 
 
