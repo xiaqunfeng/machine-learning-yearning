@@ -38,7 +38,7 @@ NG的手稿，还没有出全。我这里边学习边翻译，随手记录之，
 - update 2018.06.13：手稿 40~43 章已出（DONE）
 - update 2018.06.20：手稿 44~46 章已出（DONE）
 - update 2018.06.27：手稿 47~49 章已出（DONE）
-- update 2018.07.04：手稿 50~52 章已出（DOING）
+- update 2018.07.04：手稿 50~52 章已出（DONE）
 
 > 业余时间翻译，水平有限，如有不妥或错误之处，欢迎不吝赐教。
 
@@ -182,7 +182,7 @@ NG的手稿，还没有出全。我这里边学习边翻译，随手记录之，
 
 [Chapter 51、Choosing pipeline components: Task simplicity](chapter51.md)
 
-Chapter 52、Directly learning rich outputs
+[Chapter 52、Directly learning rich outputs](chapter52.md)
 
 ...
 

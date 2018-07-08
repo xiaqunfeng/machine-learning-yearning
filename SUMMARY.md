@@ -52,5 +52,6 @@
 * [49 Pros and cons of end-to-end learning](chapter49.md)
 * [50 Choosing pipeline components: Data availability](chapter50.md)
 * [51 Choosing pipeline components: Task simplicity](chapter51.md)
+* [52 Directly learning rich outputs](chapter52.md)
 
 
