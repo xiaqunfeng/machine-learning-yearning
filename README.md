@@ -180,7 +180,7 @@ NG的手稿，还没有出全。我这里边学习边翻译，随手记录之，
 
 [Chapter 50、Choosing pipeline components: Data availability](chapter50.md)
 
-Chapter 51、Choosing pipeline components: Task simplicity
+[Chapter 51、Choosing pipeline components: Task simplicity](chapter51.md)
 
 Chapter 52、Directly learning rich outputs
 
