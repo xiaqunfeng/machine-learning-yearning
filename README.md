@@ -100,7 +100,7 @@ NG的手稿，共58章现已出全。我这里边学习边翻译，随手记录�
 
 1、已授权作者认为我是有意扩散的，特此证明不是，以下是邮件截图：
 
-![mly](/Users/xiaqunfeng/GitBook/Library/xiaqunfeng/machine-learning-yearning/mly.jpg)
+![mly](mly.jpg)
 
 我不太看邮件，在我授权同意之前该文章就已经发出了，也是同事看到后发我才知道的，我看了机器之心的报道，措辞上没有什么问题，于是补了同意，但强调了“用于学习交流”。
 
