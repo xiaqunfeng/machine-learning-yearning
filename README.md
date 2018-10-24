@@ -193,7 +193,7 @@ NG的手稿，已出全。我这里边学习边翻译，随手记录之，加深
 
 [Chapter 53、 Error analysis by parts](chapter53.md)
 
-Chapter 54、Attributing error to one part
+[Chapter 54、Attributing error to one part](chapter54.md)
 
 Chapter 55、General case of error attribution
 
