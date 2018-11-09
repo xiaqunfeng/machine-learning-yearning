@@ -203,8 +203,7 @@ NG的手稿，已出全。我这里边学习边翻译，随手记录之，加深
 
 ### Conclusion
 
-Chapter 58、Building a superhero team - Get your
-teammates to read this
+[Chapter 58、Building a superhero team - Get your teammates to read this](chapter58.md)
 
 ## 英文原文
 
