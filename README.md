@@ -197,8 +197,7 @@ NG的手稿，已出全。我这里边学习边翻译，随手记录之，加深
 
 [Chapter 55、General case of error attribution](chapter55.md)
 
-Chapter 56、Error analysis by parts and comparison to
-human-level performance
+[Chapter 56、Error analysis by parts and comparison to human-level performance](chapter56.md)
 
 Chapter 57、Spotting a flawed ML pipeline
 
